@@ -28,7 +28,7 @@ import numpy as np
 import tensorflow as tf
 
 from model import ChatBotModel
-import config
+#import config
 import data
 
 def _get_random_bucket(train_buckets_scale):
